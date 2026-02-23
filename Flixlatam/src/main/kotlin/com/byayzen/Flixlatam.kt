@@ -12,8 +12,8 @@ import com.lagradost.cloudstream3.utils.ExtractorLink
 import org.jsoup.nodes.Document
 
 class Flixlatam : MainAPI() {
-    override var mainUrl = "https://flixlatam.com"
-    override var name = "FlixLatam"
+    override var mainUrl = "https://elnovelerovariadito.com/"
+    override var name = "elnovel"
     override val hasMainPage = true
     override var lang = "mx"
     override val hasQuickSearch = false
