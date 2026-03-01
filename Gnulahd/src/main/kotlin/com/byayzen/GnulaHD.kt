@@ -9,8 +9,8 @@ import kotlinx.coroutines.*
 import java.util.concurrent.ConcurrentHashMap
 
 class GnulaHD : MainAPI() {
-    override var mainUrl = "https://ww3.gnulahd.nu"
-    override var name = "GnulaHD"
+    override var mainUrl = "https://novelaplay.com/"
+    override var name = "Novela"
     override val supportedTypes = setOf(TvType.Movie, TvType.TvSeries, TvType.Anime)
     override var lang = "mx"
     override val hasMainPage = true
