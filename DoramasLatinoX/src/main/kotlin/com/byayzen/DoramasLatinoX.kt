@@ -22,6 +22,7 @@ class DoramasLatinoX : MainAPI() {
 
     override val mainPage = mainPageOf(
         "https://doramaslatinox.com/movies/" to "Todas las Películas",
+        "https://www.tarjetarojatv.blog/" to "emicion futboll",
         "https://doramaslatinox.com/estado/completo/" to "Completos",
         "https://doramaslatinox.com/estado/emision/" to "En Emision",
         "https://doramaslatinox.com/audio/latino/" to "Latino",
